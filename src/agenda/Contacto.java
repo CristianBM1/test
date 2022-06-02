@@ -7,7 +7,7 @@ package agenda;
 
 /**
  *
- * @author sonix
+ * @author sonixLLL      E E E E E 
  */
 public class Contacto {
     private String email;
